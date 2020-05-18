@@ -15,6 +15,7 @@
             <Button>Button 5</Button>
             <Button>Button 6</Button>
             <Button x:Name="button" Content="Click ME!"  Click="button_Click"/>
+            <Button>My new button</Button>
         </StackPanel>
 
     </Grid>
